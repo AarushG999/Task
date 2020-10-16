@@ -4,4 +4,4 @@ The given dataset contains details about organic chemical compounds including th
 Concepts: PCA, Gradient Boost, Neural Networks
 
 # View Notebook Here:
-https://github.com/AarushGProjects/Chemical-Compound-Classifier-Using-Deep-Learning/blob/master/Chemical_Compound_Classifier.ipynb
+https://nbviewer.jupyter.org/github/AarushGProjects/Chemical-Compound-Classifier-Using-Deep-Learning/blob/master/Chemical_Compound_Classifier.ipynb
